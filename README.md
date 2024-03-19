@@ -29,17 +29,17 @@
 <details>
   <summary><strong>📝 Conceitos aplicados no projeto:</strong></summary><br />
 
-let;
-const;
-arrow functions;
-template literals;
-spread operator;
-parâmetro rest;
-object destructuring;
-array destructuring;
-default destructuring;
-abbreviation object literal;
-default params;
-higher order functions;
+- let;
+- const;
+- arrow functions;
+- template literals;
+- spread operator;
+- parâmetro rest;
+- object destructuring;
+- array destructuring;
+- default destructuring;
+- abbreviation object literal;
+- default params;
+- higher order functions;
 
 </details>
